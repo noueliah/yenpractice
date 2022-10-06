@@ -1,0 +1,18 @@
+body{
+  text-align: center;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  background: lightblue;
+  margin-top: 20px;
+  padding-top: 20px;
+}
+
+#main-content{
+  text-align: center;
+  max-width: fit-content;
+}
+
+h1{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
